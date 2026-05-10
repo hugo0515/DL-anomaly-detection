@@ -1,6 +1,6 @@
-import torch
 import torch.nn as nn
 from config import HIDDEN_DIM1, HIDDEN_DIM2, LATENT_DIM, DROPOUT_RATE
+
 
 class AutoEncoder(nn.Module):
     def __init__(self, input_dim):
