@@ -9,7 +9,7 @@ HIDDEN_DIM1 = 128
 HIDDEN_DIM2 = 64
 DROPOUT_RATE = 0.3
 
-# Training parameters
+# Training parameters                                     ;.
 BATCH_SIZE = 128
 NUM_EPOCHS = 20
 LEARNING_RATE = 0.001
